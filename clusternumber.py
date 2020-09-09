@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 data = pd.read_csv('ClusterPlot.csv') #reading in the file cluster plot using read function
 
