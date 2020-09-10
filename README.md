@@ -34,3 +34,5 @@ Sources Used
 https://www.datacamp.com/community/tutorials/k-means-clustering-python
 
 https://www.programiz.com/python-programming
+
+https://www.youtube.com/watch?v=hJf0UeXCS90
