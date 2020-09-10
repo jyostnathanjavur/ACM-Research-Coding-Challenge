@@ -5,10 +5,9 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 
-
 data = pd.read_csv('ClusterPlot.csv') #reading in the file cluster plot using read function
 
-data.describe()
+print(data.describe()) # To describe the data values
 
 #Scaling each feature to a given range using minmaxscalar function
 #Using fit and tranform functions to transform the data to standardized version
